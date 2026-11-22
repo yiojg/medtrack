@@ -70,6 +70,6 @@ MedTrack is an inventory helper, **not medical advice**. Reimbursement data come
 
 <div align="center">
 
-Made with 💚 by **RAYANE AKKAOUI**
+Made with 💚 by **AKKAOUI RAYANE**
 
 </div>
