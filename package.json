@@ -1,0 +1,6 @@
+{
+  "name": "medtrack-inventory", "version": "1.0.0", "private": true,
+  "scripts": { "prepare-web": "node prepare.js" },
+  "dependencies": { "@capacitor/android": "^6.2.0", "@capacitor/cli": "^6.2.0", "@capacitor/core": "^6.2.0", "html5-qrcode": "2.3.8" },
+  "devDependencies": { "tailwindcss": "3.4.17" }
+}
